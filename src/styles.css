@@ -1,1 +1,15 @@
-/* You can add global styles to this file, and also import other style files */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: linear-gradient(to left,rgb(68, 131, 158),rgb(170, 189, 187));
+}
+
+h1{
+    justify-content: center;
+    display: flex;
+    font-family: Papyrus;
+    font-size: 80px;
+}
